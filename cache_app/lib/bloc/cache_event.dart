@@ -39,7 +39,7 @@ class InitEngine extends CacheEvent {
   final int blockSize;
   final int ways;
   
-  // --- ADDED LATENCY PARAMETERS ---
+  // --- LATENCY PARAMETERS ---
   final int hitLatency;
   final int missLatency;
 
@@ -50,8 +50,8 @@ class InitEngine extends CacheEvent {
     this.cacheSize, 
     this.blockSize, 
     this.ways,
-    this.hitLatency,   // Added to constructor
-    this.missLatency,  // Added to constructor
+    this.hitLatency,
+    this.missLatency,  
   );
 }
 
