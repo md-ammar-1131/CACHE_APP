@@ -24,11 +24,10 @@ Designed with a clean, monochrome dark-mode interface, this project serves as bo
 * **Real-time State Visualization:** Explore active cache sets, view block data/metadata, and monitor an operation log of all Hits, Misses, and Evictions.
 
 ## 📸 Screenshots
-*(Note: Replace these placeholder paths with actual screenshots of your app once uploaded to your repository)*
 
-| Address Decoder | Cache Set Visualizer |
+| Login / Authentication | Home Feed |
 | :---: | :---: |
-| <img src="assets/screenshots/decoder.png" width="300"/> | <img src="assets/screenshots/visualizer.png" width="300"/> |
+| <img src="screenshots/IMG1.png" width="300" alt="MAIN SCREEN"/> | <img src="screenshots/IMG2.png" width="300" alt="LOGS"/> |
 
 ## 🛠️ Technical Stack & Architecture
 
