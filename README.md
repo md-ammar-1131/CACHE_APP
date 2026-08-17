@@ -27,7 +27,7 @@ Designed with a clean, monochrome dark-mode interface, this project serves as bo
 
 | Login / Authentication | Home Feed |
 | :---: | :---: |
-| <img src="screenshots/IMG1.png" width="300" alt="MAIN SCREEN"/> | <img src="screenshots/IMG2.png" width="300" alt="LOGS"/> |
+| <img src="cache_app/screenshots/IMG1.png" width="300" alt="MAIN SCREEN"/> | <img src="cache_app/screenshots/IMG2.png" width="300" alt="LOGS"/> |
 
 ## 🛠️ Technical Stack & Architecture
 
