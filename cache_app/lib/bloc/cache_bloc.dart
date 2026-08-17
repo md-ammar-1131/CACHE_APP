@@ -2,7 +2,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../models/cache_engine.dart';
 
-// Import the newly separated event and state files
 import 'cache_event.dart';
 import 'cache_state.dart';
 
